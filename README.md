@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! My name is Ryan Anderson 👋
 
-<!--
-**RyanDesignDev/RyanDesignDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a designer and developer experienced in helping businesses grow using thoughtful visual solutions. I bring a designer’s eye for detail to every line of code—turning polished, creative interfaces into engaging, useful products.
 
-Here are some ideas to get you started:
+My work covers a wide range, from professional to personal projects. Across every case, I build with the mindset of a daily user, believing the best products come from people who actually use them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind
+
+## 📌 Featured Projects
+
+- [WordFocus](https://wordfocus.netlify.app/) - Language learning tool
+- [Savoyant](https://savoyant.netlify.app/) - Personal finance tracker
+- [Domino Optimo](https://domino-optimo.netlify.app/) - Domino train generator
+
+## 📁 Source Code
+
+Private repositories can be made available for review upon request.
