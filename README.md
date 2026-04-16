@@ -1,4 +1,4 @@
-# Hey there! My name is Ryan Anderson 👋
+# Hi there! My name is Ryan Anderson 👋
 
 I'm a designer and developer experienced in helping businesses grow using thoughtful visual solutions. I bring a designer’s eye for detail to every line of code—turning polished, creative interfaces into engaging, useful products.
 
@@ -14,7 +14,7 @@ My work covers a wide range, from professional to personal projects. Across ever
 
 ## 📌 Featured Projects
 
-- [WordFocus](https://wordfocus.netlify.app/) - Language learning tool
+- [WordFocus](https://wordfocus.netlify.app/) - Language learning companion
 - [Savoyant](https://savoyant.netlify.app/) - Personal finance tracker
 - [Domino Optimo](https://domino-optimo.netlify.app/) - Domino train generator
 
