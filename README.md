@@ -4,13 +4,18 @@ I'm a designer and developer experienced in helping businesses grow using though
 
 My work spans both professional and personal projects, from landing pages to interactive web apps. I believe every project deserves a design compelling enough to attract daily visits, and that the best products are built by people who actually use them.
 
-## 🧠 Skills
+## 🧠 Tech Stack
 
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
 - Tailwind
+- Vite
+- Git / GitHub
+- Firebase
+- Netlify
 
 ## 📌 Featured Projects
 
