@@ -8,10 +8,10 @@ My work spans both professional and personal projects, from landing pages to int
 
 - HTML
 - CSS
+- Tailwind
 - JavaScript
 - TypeScript
 - React
-- Tailwind
 - Vite
 - Git / GitHub
 - Firebase
