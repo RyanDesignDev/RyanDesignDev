@@ -2,7 +2,7 @@
 
 I'm a designer and developer experienced in helping businesses grow using thoughtful visual solutions. I bring a designer’s eye for detail to every line of code—turning polished, creative interfaces into engaging, useful products.
 
-My work covers a wide range, from professional to personal projects. Across every case, I build with the mindset of a daily user, believing the best products come from people who actually use them.
+My work spans professional and personal projects, ranging from landing pages to interactive web apps. Across every project, I design as if even static sites are worthy of daily users and I code know the best products come from people who actually use them.
 
 ## 🧠 Skills
 
