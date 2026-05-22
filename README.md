@@ -7,7 +7,7 @@ My work spans both professional and personal projects, from landing pages to int
 ## Tech Stack
 
 - **Frontend**: React, TypeScript, JavaScript, HTML, CSS, Tailwind
-- **Tools & Platforms**: Vite, Git/GitHub, Firebase, Netlify
+- **Tools & Platforms**: Visual Studio Code, Vite, Git/GitHub, Firebase, Netlify
 
 ## Featured Projects
 
